@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. */,[a-z]*
+ls -a . .. */,[a-z]*
